@@ -10,7 +10,7 @@ Feature: Realizar proceso de contratación de una persona
       | vacant          | test                  |
       | email           | Ultimate@gmail.com    |
       | number          | 3165986363            |
-      | archive         | Si                    |
+      | archive         | No                    |
       | habilitates     | sql,java,python       |
       | notes           | Holaaaaaaaaass        |
     And despues el usuario va al modulo nuevamente y verifica que si este el registro y verifica que los datos sean correctos
